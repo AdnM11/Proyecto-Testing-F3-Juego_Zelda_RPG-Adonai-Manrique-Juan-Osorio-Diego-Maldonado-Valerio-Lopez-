@@ -1,0 +1,6 @@
+Cada una de las carpetas contienen los archivos necesarios para la ejecucion del programa dependiendo
+de la etapa en la cual se encontraba el proyecto y los test realizados para proseguir a programar e 
+implementar la siguiente etapa. Por lo cual tenemos 15 carpetas y etapas de desarrollo, siendo la nro 15
+en la cual se corrigio todos los errores y se implemento el juego en su totalidad.
+Para poder correr el juego en cualquiera de sus etapas se tiene que dirigir a la carpeta "code" y ejecutar
+el archivo "main" en cualquiera de las 15 etapas.
